@@ -1,6 +1,5 @@
 import java.util.*;
 import processing.sound.*;
-
 SoundFile sound;
 int sizeWidth = 750;
 int sizeHeight = 750;
